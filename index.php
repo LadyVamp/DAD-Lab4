@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>My site Web Junior 2015</title>
+		<title>Library</title>
 		<meta charset="utf-8">
 		<link href="css/styles.css" rel="stylesheet">
 	</head>
